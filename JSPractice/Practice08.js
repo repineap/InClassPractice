@@ -37,4 +37,7 @@ const isEven2 = (num) => num % 2 == 0;
 
 const findMax = (numbers) => Math.max(...numbers);
 
-const addTwoNumbers = (a, b) => {const sum = a + b; return sum};
+const addTwoNumbers = (a, b) => {
+    const sum = a + b; 
+    return sum
+};
